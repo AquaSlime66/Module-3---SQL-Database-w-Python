@@ -174,7 +174,7 @@ def AddCardEntry():
         else:
             # SLICK key
             entry_loop = False
-            print("worked")
+            # print("worked")
 
     # retirve the number, ensure nothing else has key, then assign it
     # loop through until key success
